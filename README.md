@@ -228,7 +228,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('sekiro.png')
+image = cv2.imread('sekiro.jpeg')
 ```
 ```python
 image.shape
@@ -253,7 +253,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('sekiro.png')
+image = cv2.imread('sekiro.jpeg')
 ```
 ```python
 image.shape
