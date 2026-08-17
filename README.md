@@ -69,7 +69,7 @@ import matplotlib.pyplot as plt
 ```
 ```python
 # Read the image using OpenCV
-img = cv2.imread('sekiro.png', cv2.IMREAD_COLOR)
+img = cv2.imread('sekiro.jpeg', cv2.IMREAD_COLOR)
 ```
 ```python
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
@@ -84,7 +84,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('sekiro.png')
+image = cv2.imread('sekiro.jpeg')
 ```
 ```python
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
@@ -105,7 +105,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('sekiro.png') 
+image = cv2.imread('sekiro.jpeg') 
 
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -124,7 +124,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('sekiro.png') 
+image = cv2.imread('sekiro.jpeg') 
 
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -144,7 +144,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('sekiro.png') 
+image = cv2.imread('sekiro.jpeg') 
 
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -161,7 +161,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('sekiro.png')
+image = cv2.imread('sekiro.jpeg')
 ```
 ```python
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
@@ -275,7 +275,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('sekiro.png')
+image = cv2.imread('sekiro.jpeg')
 ```
 ```python
 # Flip the image horizontally (left-right)
