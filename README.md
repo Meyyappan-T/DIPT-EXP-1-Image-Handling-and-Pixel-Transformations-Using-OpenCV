@@ -69,7 +69,7 @@ import matplotlib.pyplot as plt
 ```
 ```python
 # Read the image using OpenCV
-img = cv2.imread('lion.jpg', cv2.IMREAD_COLOR)
+img = cv2.imread('sekiro.png', cv2.IMREAD_COLOR)
 ```
 ```python
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
@@ -84,7 +84,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('lion.jpg')
+image = cv2.imread('sekiro.png')
 ```
 ```python
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
@@ -105,7 +105,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('lion.jpg') 
+image = cv2.imread('sekiro.png') 
 
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -124,7 +124,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('lion.jpg') 
+image = cv2.imread('sekiro.png') 
 
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -144,7 +144,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('lion.jpg') 
+image = cv2.imread('sekiro.png') 
 
 # Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)
 img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
@@ -161,7 +161,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('lion.jpg')
+image = cv2.imread('sekiro.png')
 ```
 ```python
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
@@ -228,7 +228,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('lion.jpg')
+image = cv2.imread('sekiro.png')
 ```
 ```python
 image.shape
@@ -253,7 +253,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('lion.jpg')
+image = cv2.imread('sekiro.png')
 ```
 ```python
 image.shape
@@ -275,7 +275,7 @@ plt.show()
 ```
 ```python
 # Load the image
-image = cv2.imread('lion.jpg')
+image = cv2.imread('sekiro.png')
 ```
 ```python
 # Flip the image horizontally (left-right)
@@ -307,37 +307,39 @@ plt.axis("off")
 ```
 
 ## Output
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/c526edd2-7376-4fe6-bf3a-f4858a7f3922" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/cc649d2e-abe3-4fab-8baf-5a0493f27c45" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/de0dcdfa-e78a-4907-b9e8-c77b3199ca20" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/b72ab1c7-348d-4c66-9d88-c75e8f5a3c04" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/b9389e6b-ad15-4c0c-95b5-c17dfc256861" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/41765351-4313-4eb7-a750-c327c3bafd17" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/2d85111b-2bce-4e61-8ac9-87752fbe7cc9" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/9bdf6566-6acc-441d-867a-21dc6d644d13" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/36ce7803-7617-484e-862b-13b94ec0caa4" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/5a22d375-71b1-4dac-bbcb-832d74f58912" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/3bca127a-eedb-4834-97cb-d17893656f0d" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/e1a89e18-3c54-48aa-9d75-fafd39393a38" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/a3f68cc9-784a-407d-be9c-f62bcdda30d8" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/df3e679d-5814-44ad-9b0c-5c33509a7284" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/c399e302-9264-4763-84be-ce8fa293a34f" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/e2d97d07-728b-4b81-8c98-2d4fa1389dbc" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/a35811e2-e66e-4b2f-be52-a913ec92e1dd" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/61cce0a6-c726-4798-b160-b73885439130" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/41083363-15de-4c2c-b57e-16eeee42e69d" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/3fd13777-e615-4dc9-af1c-3d40dd612f04" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/9befe17d-d826-4d01-9a34-cfb92b197984" />
 
-<img width="493" height="409" alt="download" src="https://github.com/user-attachments/assets/49372280-07a6-40dc-8a42-3c1c87d56f9f" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/1105bfc7-91ab-486b-9aa3-fb25a55e9819" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/ff9c32b1-5f2f-4d32-a080-a1ab4a52f5fa" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/f0f01a26-e634-4262-9e35-d6bad3b76b62" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/1e69a920-f17c-46a3-8eff-d5402035a7fa" />
 
-<img width="389" height="409" alt="download" src="https://github.com/user-attachments/assets/da6a3929-079a-4282-aadc-041d68052d8d" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/f83e1366-3a01-48ae-918b-555db0fe8d04" />
 
+
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/7561df43-ccbd-4605-ba20-1de9232b76f6" />
+
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/5676fbc4-71fe-4b53-bb0f-a20c0b0e1d22" />
 
 ## Result 
 
